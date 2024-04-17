@@ -1,6 +1,7 @@
-# mi_card_flutter
+#Mi Card Flutter
+Mi Card Flutter is a personal business card app built using Flutter. This project is designed to help beginners understand the basics of Flutter development, including the structure of Flutter apps, custom styling, and deployment.
 
-A new Flutter project.
+![Screenshot_20240417_124651](https://github.com/amarranjan1/mi_card_flutter/assets/35811614/1862326c-07c1-40c1-8d80-029335ed5602)
 
 ## Getting Started
 
